@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-## A simple React Tic-Tac-Toe game that take a minimum of five moves to with. The starter is always the winner and the boad tells who is the winner.
+## A simple React Tic-Tac-Toe game that take a minimum of five moves to win. The starter is always the winner and the board tells who is the winner.
 
 # Roadmap for improvement
 
